@@ -1,0 +1,5 @@
+{  "homepage":"https://jouini-wajih.github.io/githb-portfolio/",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
