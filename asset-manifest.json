@@ -1,12 +1,19 @@
 {
   "files": {
-    "main.css": "/githb-portfolio/static/css/main.52720bfd.css",
-    "main.js": "/githb-portfolio/static/js/main.fa74e100.js",
+    "main.css": "/githb-portfolio/static/css/main.b7af714f.css",
+    "main.js": "/githb-portfolio/static/js/main.80874fc8.js",
     "static/media/myimg.png": "/githb-portfolio/static/media/myimg.75bf1022035b5b1ca44f.png",
+    "static/media/cert1.png": "/githb-portfolio/static/media/cert1.1bb5ab52dbcfc9c3df73.png",
+    "static/media/cert3.png": "/githb-portfolio/static/media/cert3.1266c134b592724048dc.png",
+    "static/media/cert2.png": "/githb-portfolio/static/media/cert2.006459911024466238d2.png",
+    "static/media/tt2.png": "/githb-portfolio/static/media/tt2.989293cbc106da4830e9.png",
+    "static/media/geocore.png": "/githb-portfolio/static/media/geocore.c590c8f0c1fdb9d23dcc.png",
+    "static/media/bfi.png": "/githb-portfolio/static/media/bfi.2c998758e45e22ca5323.png",
+    "static/media/logo.png": "/githb-portfolio/static/media/logo.213879bd9674297bf5f8.png",
     "index.html": "/githb-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.52720bfd.css",
-    "static/js/main.fa74e100.js"
+    "static/css/main.b7af714f.css",
+    "static/js/main.80874fc8.js"
   ]
 }
