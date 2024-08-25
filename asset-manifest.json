@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/githb-portfolio/static/css/main.2e119c6e.css",
-    "main.js": "/githb-portfolio/static/js/main.a898beed.js",
-    "static/media/output.mp4": "/githb-portfolio/static/media/output.68173c7a332856e217b2.mp4",
-    "static/media/bfi.mp4": "/githb-portfolio/static/media/bfi.d47e5c484ef9a462aaba.mp4",
-    "static/media/sstudy.png": "/githb-portfolio/static/media/sstudy.fdff7bb262167f4d0321.png",
-    "static/media/ss3.png": "/githb-portfolio/static/media/ss3.dd287ea7e607b6095c62.png",
-    "static/media/ttd2.png": "/githb-portfolio/static/media/ttd2.51822a60ca5f26daa9f4.png",
-    "static/media/myimg.png": "/githb-portfolio/static/media/myimg.75bf1022035b5b1ca44f.png",
-    "static/media/id3.png": "/githb-portfolio/static/media/id3.f217e7c400ce3c651d39.png",
-    "static/media/hyper.png": "/githb-portfolio/static/media/hyper.c13c86c447535660aa40.png",
-    "static/media/resume.pdf": "/githb-portfolio/static/media/resume.34ec20c7499646e7ea23.pdf",
-    "static/media/id4.png": "/githb-portfolio/static/media/id4.58afaa1daf0c26513ca5.png",
-    "static/media/cert1.png": "/githb-portfolio/static/media/cert1.1bb5ab52dbcfc9c3df73.png",
-    "static/media/cert3.png": "/githb-portfolio/static/media/cert3.1266c134b592724048dc.png",
-    "static/media/cert2.png": "/githb-portfolio/static/media/cert2.006459911024466238d2.png",
-    "static/media/tt2.png": "/githb-portfolio/static/media/tt2.989293cbc106da4830e9.png",
-    "static/media/analysis.PNG": "/githb-portfolio/static/media/analysis.10e79cdcd1c1b08a42fa.PNG",
-    "static/media/geocore.png": "/githb-portfolio/static/media/geocore.c590c8f0c1fdb9d23dcc.png",
-    "static/media/bfi.png": "/githb-portfolio/static/media/bfi.2c998758e45e22ca5323.png",
-    "static/media/logo.png": "/githb-portfolio/static/media/logo.213879bd9674297bf5f8.png",
-    "index.html": "/githb-portfolio/index.html"
+    "main.css": "/static/css/main.2e119c6e.css",
+    "main.js": "/static/js/main.a14b597a.js",
+    "static/media/output.mp4": "/static/media/output.68173c7a332856e217b2.mp4",
+    "static/media/bfi.mp4": "/static/media/bfi.d47e5c484ef9a462aaba.mp4",
+    "static/media/sstudy.png": "/static/media/sstudy.fdff7bb262167f4d0321.png",
+    "static/media/ss3.png": "/static/media/ss3.dd287ea7e607b6095c62.png",
+    "static/media/ttd2.png": "/static/media/ttd2.51822a60ca5f26daa9f4.png",
+    "static/media/myimg.png": "/static/media/myimg.75bf1022035b5b1ca44f.png",
+    "static/media/id3.png": "/static/media/id3.f217e7c400ce3c651d39.png",
+    "static/media/hyper.png": "/static/media/hyper.c13c86c447535660aa40.png",
+    "static/media/resume.pdf": "/static/media/resume.34ec20c7499646e7ea23.pdf",
+    "static/media/id4.png": "/static/media/id4.58afaa1daf0c26513ca5.png",
+    "static/media/cert1.png": "/static/media/cert1.1bb5ab52dbcfc9c3df73.png",
+    "static/media/cert3.png": "/static/media/cert3.1266c134b592724048dc.png",
+    "static/media/cert2.png": "/static/media/cert2.006459911024466238d2.png",
+    "static/media/tt2.png": "/static/media/tt2.989293cbc106da4830e9.png",
+    "static/media/analysis.PNG": "/static/media/analysis.10e79cdcd1c1b08a42fa.PNG",
+    "static/media/geocore.png": "/static/media/geocore.c590c8f0c1fdb9d23dcc.png",
+    "static/media/bfi.png": "/static/media/bfi.2c998758e45e22ca5323.png",
+    "static/media/logo.png": "/static/media/logo.213879bd9674297bf5f8.png",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.2e119c6e.css",
-    "static/js/main.a898beed.js"
+    "static/js/main.a14b597a.js"
   ]
 }
