@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/githb-portfolio/static/css/main.2e119c6e.css",
-    "main.js": "/githb-portfolio/static/js/main.4dcc4744.js",
+    "main.js": "/githb-portfolio/static/js/main.a898beed.js",
     "static/media/output.mp4": "/githb-portfolio/static/media/output.68173c7a332856e217b2.mp4",
     "static/media/bfi.mp4": "/githb-portfolio/static/media/bfi.d47e5c484ef9a462aaba.mp4",
     "static/media/sstudy.png": "/githb-portfolio/static/media/sstudy.fdff7bb262167f4d0321.png",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.2e119c6e.css",
-    "static/js/main.4dcc4744.js"
+    "static/js/main.a898beed.js"
   ]
 }
