@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/githb-portfolio/static/css/main.6fb9f571.css",
-    "main.js": "/githb-portfolio/static/js/main.fe29bda4.js",
+    "main.css": "/githb-portfolio/static/css/main.2e119c6e.css",
+    "main.js": "/githb-portfolio/static/js/main.4dcc4744.js",
     "static/media/output.mp4": "/githb-portfolio/static/media/output.68173c7a332856e217b2.mp4",
     "static/media/bfi.mp4": "/githb-portfolio/static/media/bfi.d47e5c484ef9a462aaba.mp4",
     "static/media/sstudy.png": "/githb-portfolio/static/media/sstudy.fdff7bb262167f4d0321.png",
+    "static/media/ss3.png": "/githb-portfolio/static/media/ss3.dd287ea7e607b6095c62.png",
     "static/media/ttd2.png": "/githb-portfolio/static/media/ttd2.51822a60ca5f26daa9f4.png",
     "static/media/myimg.png": "/githb-portfolio/static/media/myimg.75bf1022035b5b1ca44f.png",
     "static/media/id3.png": "/githb-portfolio/static/media/id3.f217e7c400ce3c651d39.png",
     "static/media/hyper.png": "/githb-portfolio/static/media/hyper.c13c86c447535660aa40.png",
+    "static/media/resume.pdf": "/githb-portfolio/static/media/resume.34ec20c7499646e7ea23.pdf",
+    "static/media/id4.png": "/githb-portfolio/static/media/id4.58afaa1daf0c26513ca5.png",
     "static/media/cert1.png": "/githb-portfolio/static/media/cert1.1bb5ab52dbcfc9c3df73.png",
     "static/media/cert3.png": "/githb-portfolio/static/media/cert3.1266c134b592724048dc.png",
     "static/media/cert2.png": "/githb-portfolio/static/media/cert2.006459911024466238d2.png",
@@ -20,7 +23,7 @@
     "index.html": "/githb-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.6fb9f571.css",
-    "static/js/main.fe29bda4.js"
+    "static/css/main.2e119c6e.css",
+    "static/js/main.4dcc4744.js"
   ]
 }
