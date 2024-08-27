@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2e119c6e.css",
-    "main.js": "/static/js/main.a14b597a.js",
+    "main.js": "/static/js/main.c3091a5b.js",
     "static/media/output.mp4": "/static/media/output.68173c7a332856e217b2.mp4",
     "static/media/bfi.mp4": "/static/media/bfi.d47e5c484ef9a462aaba.mp4",
     "static/media/sstudy.png": "/static/media/sstudy.fdff7bb262167f4d0321.png",
@@ -10,8 +10,8 @@
     "static/media/myimg.png": "/static/media/myimg.75bf1022035b5b1ca44f.png",
     "static/media/id3.png": "/static/media/id3.f217e7c400ce3c651d39.png",
     "static/media/hyper.png": "/static/media/hyper.c13c86c447535660aa40.png",
-    "static/media/resume.pdf": "/static/media/resume.34ec20c7499646e7ea23.pdf",
     "static/media/id4.png": "/static/media/id4.58afaa1daf0c26513ca5.png",
+    "static/media/resume.pdf": "/static/media/resume.0fb939b0de3b8e2a0968.pdf",
     "static/media/cert1.png": "/static/media/cert1.1bb5ab52dbcfc9c3df73.png",
     "static/media/cert3.png": "/static/media/cert3.1266c134b592724048dc.png",
     "static/media/cert2.png": "/static/media/cert2.006459911024466238d2.png",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.2e119c6e.css",
-    "static/js/main.a14b597a.js"
+    "static/js/main.c3091a5b.js"
   ]
 }
